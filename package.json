@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer_2",
+  "version": "1.0.0",
+  "description": "Automated software testing with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./tests/example6.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorFerro/PUPPETEER.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Mocha",
+    "Chai"
+  ],
+  "author": "IGOR FERRO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorFerro/PUPPETEER/issues"
+  },
+  "homepage": "https://github.com/IgorFerro/PUPPETEER#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "prettier": "^2.0.5",
+    "puppeteer": "^3.0.0"
+  }
+}
