@@ -23,7 +23,7 @@
   "homepage": "https://github.com/IgorFerro/PUPPETEER#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "prettier": "^2.0.5",
     "puppeteer": "^3.0.0"
   }
